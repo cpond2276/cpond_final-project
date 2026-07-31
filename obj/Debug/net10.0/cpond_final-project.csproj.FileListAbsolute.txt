@@ -1,0 +1,14 @@
+C:\Users\carso\code\cpond_final-project\bin\Debug\net10.0\cpond_final-project.exe
+C:\Users\carso\code\cpond_final-project\bin\Debug\net10.0\cpond_final-project.deps.json
+C:\Users\carso\code\cpond_final-project\bin\Debug\net10.0\cpond_final-project.runtimeconfig.json
+C:\Users\carso\code\cpond_final-project\bin\Debug\net10.0\cpond_final-project.dll
+C:\Users\carso\code\cpond_final-project\bin\Debug\net10.0\cpond_final-project.pdb
+C:\Users\carso\code\cpond_final-project\obj\Debug\net10.0\cpond_final-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carso\code\cpond_final-project\obj\Debug\net10.0\cpond_final-project.AssemblyInfoInputs.cache
+C:\Users\carso\code\cpond_final-project\obj\Debug\net10.0\cpond_final-project.AssemblyInfo.cs
+C:\Users\carso\code\cpond_final-project\obj\Debug\net10.0\cpond_final-project.csproj.CoreCompileInputs.cache
+C:\Users\carso\code\cpond_final-project\obj\Debug\net10.0\cpond_final-project.dll
+C:\Users\carso\code\cpond_final-project\obj\Debug\net10.0\refint\cpond_final-project.dll
+C:\Users\carso\code\cpond_final-project\obj\Debug\net10.0\cpond_final-project.pdb
+C:\Users\carso\code\cpond_final-project\obj\Debug\net10.0\cpond_final-project.genruntimeconfig.cache
+C:\Users\carso\code\cpond_final-project\obj\Debug\net10.0\ref\cpond_final-project.dll
