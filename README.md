@@ -15,9 +15,13 @@ See 'Case-Use Diagram.pdf' for case-use diagram
 Pseudo Code
 
 run test
+
 print welcome message
+
 begin game loop(is game going true or false)
+
     print board (create method for this, will do a lot of times)
+
     ask player for input (create method for this)
     update board from input
     check for win (create method for this)
