@@ -14,36 +14,32 @@ See 'Case-Use Diagram.pdf' for case-use diagram
 
 Pseudo Code
 
-run test
-
-print welcome message
-
-begin game loop(is game going true or false)
-
-    print board (create method for this, will do a lot of times)
-
-    ask player for input (create method for this)
-    update board from input
-    check for win (create method for this)
-        if yes display win and add to win total
-    check for tie (create method for this)
-        if yes display tie and add to tie total
-    computer turn(create method)(if else statements in this order)
-        if win on this turn possible take square
-        if player win possible on next turn take it
-        if middle is open take is
-        take random spot if the rest weren't true
-    update board from computer turn
-    check for win
-        if yes display win and add to win total
-    check for tie
-        if yes display tie and add to tie total
-when game ends ask player to play again
- if yes 
-    begin game loop again
- if no
-    print wins and losses
-    goodbye
+    run test
+    print welcome message
+    begin game loop(is game going true or false)
+        print board (create method for this, will do a lot of times)
+        ask player for input (create method for this)
+        update board from input
+        check for win (create method for this)
+            if yes display win and add to win total
+        check for tie (create method for this)
+            if yes display tie and add to tie total
+        computer turn(create method)(if else statements in this order)
+            if win on this turn possible take square
+            if player win possible on next turn take it
+            if middle is open take is
+            take random spot if the rest weren't true
+        update board from computer turn
+        check for win
+            if yes display win and add to win total
+        check for tie
+            if yes display tie and add to tie total
+    when game ends ask player to play again
+     if yes 
+        begin game loop again
+     if no
+        print wins and losses
+        goodbye
     
   
   
