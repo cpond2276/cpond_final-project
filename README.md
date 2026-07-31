@@ -7,6 +7,9 @@ I was able to get a functioning game of tic-tac-toe. After an intro the player t
 
 One of the things that I knew in theory was how useful methods were, but this project really helped me understand how great they are. They give a lot more flexibility to the code, and making the methods then adding them together in the game loop felt like a simpler process rather than trying to make it all out of a bunch of unorganized loops. I gained more technical knowledge about reading from and using other files as well as the use and limits of 2d arrays. The biggest thing I learned though it about the importance of preperation and planning. I think the most important thing I learned was the importance of really planning out bigger projects. This was the biggest coding project I've worked on, but I think it is also the one that came out the cleanest. I think that is because I planned and structured everything much more carefully than previous projects.
 
+Diagrams:
+See 'Flow Charts.pdf' for flow charts
+See 'Case-Use Diagram.pdf' for case-use diagram
 
 Pseudo Code
 
