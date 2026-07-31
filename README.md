@@ -1,5 +1,6 @@
 Overview and Reflection:
-My initial goal was to get a working video game of some kind. That game ended up being tic-tac-toe. There was a lot I wanted to accomplish with this project. I needed to be able to make the board, update the board on both the users and computers turn, then I needed to make it an actual challenge to win the game by adding real strategy to the way the computer played. That was both the hardest and most rewarding part of the project.
+My initial goal was to get a working video game of some kind. That game ended up being tic-tac-toe. 
+There was a lot I wanted to accomplish with this project. I needed to be able to make the board, update the board on both the users and computers turn, then I needed to make it an actual challenge to win the game by adding real strategy to the way the computer played. That was both the hardest and most rewarding part of the project.
 
 This project was very interesting to me because as I thought about it more and worked my way through it I found way more little details and roadblocks that I would have thought. It was really interesting developing a simple yet effective strategy for the computer. It was also fun adding little details to the flow of the game to make it feel smoother and more natural. Clearing the console at the right time and adding little pauses or messages to give it some personality was something I hadn't originally planned but I feel it helps fulfill its function as game rather than utilitarian code.
 
